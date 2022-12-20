@@ -2,16 +2,16 @@ import Button from '../Button';
 
 const Hero = () => {
   return (
-    <section className='w-full text-center lg:text-start  gap-16 flex lg:flex-row flex-col-reverse items-center'>
-      <div className='w-full flex flex-col  gap-6'>
-        <h1 className='text-white leading-tight relative text-h2 lg:text-h1 font-semibold'>
-          Reliable, secure conference to get the best events
-          <img
-            className='absolute  top-2 right-72 hidden 2xl:block'
-            src='/Ornament.svg'
-          />
+    <section className='w-full pt-10 gap-16 flex lg:flex-row flex-col-reverse items-center'>
+      <div className='w-full item text-center lg:text-start flex flex-col  gap-6'>
+        <h1 className='text-white leading-tight relative text-h4 lg:text-h1 font-semibold'>
+          Reliable, secure
+          <span className='relative h-full'>
+            <img className='inline -mt-9' src='/Ornament.svg' />
+          </span>
+          conference to get the best events
         </h1>
-        <p className='text-lg lg:text-xl text-neutral-50 mb-14'>
+        <p className='text-lg lg:text-xl text-neutral-50'>
           Hold incredible events, share knowledge, build and grow your product ,
           create opportunity
         </p>
@@ -28,7 +28,7 @@ const Hero = () => {
           </Button>
         </div>
       </div>
-      <div className='relative'>
+      <div className='relative mx-4 lg:mb-10'>
         <img draggable='false' src='/Image.png' alt='works' />
       </div>
     </section>

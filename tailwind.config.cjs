@@ -32,6 +32,7 @@ module.exports = {
       white: '#FFFFFF',
       warning: '#F9DA70',
       success: '#10B26E',
+      aboutBg: '#F8F8F8',
     },
     extend: {
       fontFamily: {
