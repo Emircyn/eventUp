@@ -2,7 +2,7 @@ import React from 'react';
 
 const Features = () => {
   return (
-    <div className='flex text-center lg:text-start flex-col-reverse lg:flex-row lg:gap-x-28 lg:gap-y-10'>
+    <div className='flex items-center text-center lg:text-start flex-col-reverse lg:flex-row lg:gap-x-28 lg:gap-y-10'>
       <div className='flex mt-8 lg:mt-48 gap-6 flex-col'>
         <p className='text-neutral-200 uppercase tracking-[0.2em] font-medium'>
           <span>-</span>all features
