@@ -32,6 +32,7 @@ module.exports = {
       white: '#FFFFFF',
       warning: '#F9DA70',
       success: '#10B26E',
+      cardBG: '#953314',
       aboutBg: '#F8F8F8',
     },
     extend: {
@@ -40,6 +41,9 @@ module.exports = {
       },
       backgroundColor: {
         overlay: 'rgba(0, 0, 0, 0.4)',
+      },
+      backgroundImage: {
+        'card-pattern': "url('/Maskgroup.png')",
       },
       boxShadow: {
         sm: '13px 16px 34px 0 rgba(12, 11, 65, 0.03)',

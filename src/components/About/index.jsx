@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className='flex items-center flex-col lg:flex-row gap-8 justify-evenly py-14 w-full'>
+    <section className='flex items-center flex-col lg:flex-row gap-8 justify-evenly py-14 w-full'>
       <div className='relative w-auto'>
         <img draggable='false' src='/about-image.png' />
       </div>
@@ -12,7 +12,7 @@ const About = () => {
           hybrid-conference teams create, collaborate and celebrate together.
         </p>
       </div>
-    </div>
+    </section>
   );
 };
 
