@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
-import Button from "../Button";
-import MobileNav from "./MobileNav";
+import { useEffect, useState } from 'react';
+import Button from '../Button';
+import MobileNav from './MobileNav';
 
 const Header = () => {
   const [isOpen, setOpen] = useState(false);
@@ -9,13 +9,13 @@ const Header = () => {
     setScroll(window.scrollY);
   };
   useEffect(() => {
-    window.addEventListener("scroll", stickNavbar);
+    window.addEventListener('scroll', stickNavbar);
   }, []);
 
   return (
     <header
       className={`sticky top-0 z-30 flex ${
-        scroll > 100 ? "bg-neutral-800/95" : "bg-neutral-800"
+        scroll > 100 ? 'bg-neutral-800/95' : 'bg-neutral-800'
       }  h-[94px]`}
     >
       <div className="container mx-auto flex w-[96%] items-center justify-between  text-neutral-0">

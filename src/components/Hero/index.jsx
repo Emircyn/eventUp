@@ -1,4 +1,4 @@
-import Button from "../Button";
+import Button from '../Button';
 
 const Hero = () => {
   return (
@@ -12,19 +12,13 @@ const Hero = () => {
           conference to get the best events
         </h1>
         <p className="text-lg text-neutral-50 lg:text-xl">
-          Hold incredible events, share knowledge, build and grow your product ,
-          create opportunity
+          Hold incredible events, share knowledge, build and grow your product , create opportunity
         </p>
         <div className="mb-36 flex justify-center gap-6 lg:justify-start">
-          <Button otherCSS="bg-primary-800 text-white hover:scale-105">
-            Create Conference
-          </Button>
+          <Button otherCSS="bg-primary-800 text-white hover:scale-105">Create Conference</Button>
           <Button otherCSS="text-white border-[1px] group hover:scale-105">
             Watch story
-            <img
-              className="ml-2 hidden group-hover:scale-105 lg:inline"
-              src="/arrow-right.svg"
-            />
+            <img className="ml-2 hidden group-hover:scale-105 lg:inline" src="/arrow-right.svg" />
           </Button>
         </div>
       </div>

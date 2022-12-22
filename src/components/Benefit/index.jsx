@@ -11,8 +11,8 @@ const Benefit = () => {
           secure for your conferences
         </h3>
         <p className="text-neutral-50">
-          By using us, get the benefits that make it easier for you in the
-          conference for your convenience and the participants
+          By using us, get the benefits that make it easier for you in the conference for your
+          convenience and the participants
         </p>
         <div className="lg:grid-cols-0 mb-11 grid gap-x-12 gap-y-4 lg:grid-rows-3">
           <div className="flex gap-x-4">

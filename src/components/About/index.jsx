@@ -7,9 +7,9 @@ const About = () => {
       <div className="flex max-w-xl flex-col justify-center gap-4">
         <h3 className="text-h3-custom">Everyone on their own device.</h3>
         <p className="text-lg leading-8 text-neutral-500 lg:text-xl">
-          <span className="font-semibold">EventUp</span> is designed to be
-          inclusive, by being able to use your own device to help
-          hybrid-conference teams create, collaborate and celebrate together.
+          <span className="font-semibold">EventUp</span> is designed to be inclusive, by being able
+          to use your own device to help hybrid-conference teams create, collaborate and celebrate
+          together.
         </p>
       </div>
     </section>
