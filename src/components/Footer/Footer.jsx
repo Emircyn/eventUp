@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
       </div>
       <hr className="w-full text-neutral-50" />
-      <div className="flex flex-wrap-reverse justify-between gap-y-9 py-12">
+      <div className="flex flex-wrap-reverse justify-between gap-9 py-12">
         <nav className="flex flex-wrap gap-6">
           <a href="#" className="pr-20">
             © 2022 EventUp, Inc.
@@ -64,14 +64,14 @@ const Footer = () => {
           <a href="#">Terms of Service</a>
           <a href="#">Cookie Settings</a>
         </nav>
-        <div className="flex items-center gap-6">
+        <div className="flex items-center gap-8">
           <ReactFlagsSelect
             selected={select}
             onSelect={onSelect}
             countries={['US', 'GB']}
             customLabels={{ US: 'English (US)', GB: 'English (GB)' }}
           />
-          <div className="flex gap-3">
+          <div className="flex gap-4">
             <a className="h-6 w-6" href="#">
               <img className="h-full w-full" src="/Twitter.png" />
             </a>
