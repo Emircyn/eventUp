@@ -3,6 +3,7 @@ import Benefit from './components/Benefit';
 import Card from './components/Card';
 import DisplayRoom from './components/DisplayRoom';
 import Features from './components/Features';
+import Footer from './components/Footer/Footer';
 import GettingMassage from './components/GettingMessage';
 import Header from './components/Header';
 import Hero from './components/Hero';
@@ -35,6 +36,7 @@ function App() {
       <div className="container mx-auto w-11/12">
         <GettingMassage />
         <Card />
+        <Footer />
       </div>
     </>
   );

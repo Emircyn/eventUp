@@ -43,7 +43,8 @@ module.exports = {
         overlay: 'rgba(0, 0, 0, 0.4)'
       },
       backgroundImage: {
-        'card-pattern': "url('/Maskgroup.png')"
+        'card-pattern': "url('/Maskgroup.png')",
+        usd: "url('/united-states.svg')"
       },
       boxShadow: {
         sm: '13px 16px 34px 0 rgba(12, 11, 65, 0.03)',
