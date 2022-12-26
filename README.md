@@ -4,14 +4,14 @@ This is a landing page built with Vite, React, and Tailwind CSS. It is designed 
 
 ## Technologies used
 
--Vite: A modern build tool that allows you to develop and build fast.
--React: A JavaScript library for building user interfaces.
--Tailwind CSS: A utility-first CSS framework that makes it easy to build custom designs.
+- Vite: A modern build tool that allows you to develop and build fast.
+- React: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework that makes it easy to build custom designs.
 
 ## Features
 
--Responsive design: The landing page is fully responsive and looks great on all devices.
--Customizable: The landing page can be easily customized to fit your brand's colors and style.
+- Responsive design: The landing page is fully responsive and looks great on all devices.
+- Customizable: The landing page can be easily customized to fit your brand's colors and style.
 
 ## Usage guide
 To start using this landing page, follow these steps:
