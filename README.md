@@ -13,6 +13,10 @@ This is a landing page built with Vite, React, and Tailwind CSS. It is designed 
 - Responsive design: The landing page is fully responsive and looks great on all devices.
 - Customizable: The landing page can be easily customized to fit your brand's colors and style.
 
+## Demo
+
+You can try the app at this link: https://event-up-one.vercel.app
+
 ## Usage guide
 To start using this landing page, follow these steps:
 
