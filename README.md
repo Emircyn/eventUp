@@ -8,7 +8,7 @@ This is a landing page built with Vite, React, and Tailwind CSS. It is designed 
 -React: A JavaScript library for building user interfaces.
 -Tailwind CSS: A utility-first CSS framework that makes it easy to build custom designs.
 
-##Features
+## Features
 
 -Responsive design: The landing page is fully responsive and looks great on all devices.
 -Customizable: The landing page can be easily customized to fit your brand's colors and style.
