@@ -19,6 +19,6 @@ To start using this landing page, follow these steps:
 1. Clone the repository to your computer.
 2. Go to the project directory and run `npm install` to install the required packages.
 3. Run npm `npm run dev` the development server.
-4 .The landing page will open in your browser.
+4. The landing page will open in your browser.
 
 Follow these steps to start using this landing page.
